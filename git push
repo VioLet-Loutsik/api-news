@@ -1,0 +1,17 @@
+[33mcommit f41b1195aea7de19867a6fda052843168a0e4285[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: VioLet-Loutsik <55018769+VioLet-Loutsik@users.noreply.github.com>
+Date:   Sun Feb 12 22:46:27 2023 +0200
+
+    bbc styled
+
+[33mcommit e83177584074e7c301f43697890aab33adac9812[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: VioLet-Loutsik <55018769+VioLet-Loutsik@users.noreply.github.com>
+Date:   Thu Feb 9 23:02:31 2023 +0200
+
+    first commit
+
+[33mcommit 351c8ba928df905cb0ea92b0f81d207653fa227f[m
+Author: VioLet-Loutsik <55018769+VioLet-Loutsik@users.noreply.github.com>
+Date:   Thu Feb 9 18:55:20 2023 +0200
+
+    Initialize project using Create React App

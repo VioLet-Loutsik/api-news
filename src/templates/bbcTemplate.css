@@ -1,0 +1,58 @@
+.bbcstyle{
+    background-color: rgb(86, 85, 85);
+    border: 1px solid transparent; 
+}
+
+.bbcstyle:hover
+{
+    background-color: rgb(66, 65, 65);
+    border: 1px solid rgba(216, 209, 209, 0.499); 
+}
+.bbcstyle .textBbc:hover{
+    text-decoration: underline;
+}
+
+
+.bbcstyle a{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px;
+    /*border: 2px solid red;*/
+}
+
+.imageBbc{
+    height: 270px;
+    /* border: 5px solid rgba(5, 99, 130, 0.499); */
+}
+.textBbc{
+    /* height: fit-content; */
+    /* height: 50px; */
+    padding: 20px 0;
+    color: rgb(238, 229, 229); 
+    /* border: 5px solid rgba(5, 99, 130, 0.499); */
+}
+.dateInfo{
+    display: flex;
+    justify-content:space-between;
+    color: rgb(238, 229, 229); 
+}
+
+
+@media (max-width: 576px) {
+  .textBbc p{
+    display: none;
+  }
+  .textBbc{
+    padding: 10px 0;
+    font-size: small;
+  }
+  .dateInfo{
+    font-size: small;
+  }
+}
+@media (max-width: 320px) {
+    .imageBlock{
+        display: none;
+    }
+}
+
