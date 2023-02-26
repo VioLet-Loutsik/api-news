@@ -16,7 +16,8 @@ const TechNews = () => {
   const techData = newsData?.map((e, i) => {
     const x = e.publishedAt;
     const data = new Date(x);
-    const dataInfo = data.getDate(x) + '.' + data.getMonth(x) + '.' + data.getFullYear(x);
+    const dataInfo =
+      data.getDate(x) + "." + data.getMonth(x) + "." + data.getFullYear(x);
     // console.log(data);
     return (
       <TechTemplate

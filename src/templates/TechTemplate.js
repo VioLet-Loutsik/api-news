@@ -1,6 +1,6 @@
 import "./techTemplate.css";
 
-const TechTemplate =  ({ link, image, title, text, author, data }) => {
+const TechTemplate = ({ link, image, title, text, author, data }) => {
   return (
     <div>
       <a href={link} title="click for all article">

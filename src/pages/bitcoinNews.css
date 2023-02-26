@@ -1,0 +1,13 @@
+.classImgTempSec{
+  /* width: 220px; */
+  height: 140px;
+  object-fit:cover;
+  border: 2px solid rgb(233, 17, 17);
+  }
+
+.bitcoinNews{
+  margin: 20px 150px;
+}
+.bitcoinTempSecond{
+  border: 5px solid grey;
+}

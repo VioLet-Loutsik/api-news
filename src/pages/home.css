@@ -1,4 +1,15 @@
-.classTitle{
-    padding-top: 50px;
+
+.homeLogic{
+    display: flex;
+    justify-content: space-around;  
+    padding-bottom: 200px;
+}
+.homeTitle{
     text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: rgb(246, 246, 252);
+}
+.homeDiv{
+    background-color: rgb(55, 52, 52);
 }
